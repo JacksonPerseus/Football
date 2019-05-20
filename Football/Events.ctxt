@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Events
+comment1.params=
+comment1.target=Events()
+comment2.params=
+comment2.target=void\ board()
+comment3.params=b\ p1\ p2
+comment3.target=void\ out(Ball,\ Player,\ Player)
+comment4.params=ball\ p1\ p2
+comment4.target=void\ goalWest(Ball,\ Player,\ Player)
+comment5.params=ball\ p1\ p2
+comment5.target=void\ goalEast(Ball,\ Player,\ Player)
+comment6.params=
+comment6.target=void\ score()
+numComments=7
