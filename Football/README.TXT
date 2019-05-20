@@ -10,5 +10,5 @@ PROJEKTBEZEICHNUNG: Football
 PROJEKTZWECK: Info-Projekt
 VERSION oder DATUM: Alpha 2
 WIE IST DAS PROJEKT ZU STARTEN: Main methode ausführen
-AUTOR(EN): Linus Michel u. Aaron Schlott
-BENUTZERHINWEISE: aaron sucks
+AUTOR(EN): LiMic
+BENUTZERHINWEISE: Ich weiß es ist scheiße
